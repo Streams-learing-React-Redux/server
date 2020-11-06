@@ -1,3 +1,9 @@
 {
-  "sterams": []
+  "streams": [
+    {
+      "title": "my string",
+      "description": "good string",
+      "id": 1
+    }
+  ]
 }
